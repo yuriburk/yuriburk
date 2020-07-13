@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
         <p>
-          Meu nome é Jefferson Yuri Cunha Burk, formado em Sistemas de
+          Meu nome é Yuri Burk, formado em Sistemas de
           Informação, moro em Blumenau/SC onde trabalho na
           <a
             target="_blank"
