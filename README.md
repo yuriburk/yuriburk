@@ -47,3 +47,5 @@
           <li>Testes Automatizados</li>
           <li>Bancos de dados relacionais e não relacionais</li>
         </ul>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yuriburk.visitor-badge)
