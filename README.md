@@ -7,9 +7,9 @@
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://hbsis.com.br/"
+            href="https://ambevtech.com.br/"
           >
-            HBSIS
+            Ambev
           </a>
           como analista de desenvolvimento full-stack.
         </p>
@@ -32,9 +32,9 @@
 
 <h2>Habilidades</h2>
         <ul>
-          <li>React.js</li>
-          <li>C#</li>
+          <li>React.js</li
           <li>Node.js</li>
+          <li>C#</li>
           <li>React Native</li>
           <li>Javascript (ES6+)</li>
           <li>HTML</li>
