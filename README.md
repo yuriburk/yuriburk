@@ -32,7 +32,7 @@
 
 <h2>Habilidades</h2>
         <ul>
-          <li>React.js</li
+          <li>React.js</li>
           <li>Node.js</li>
           <li>C#</li>
           <li>React Native</li>
