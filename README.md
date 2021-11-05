@@ -3,15 +3,15 @@
 <h2>Sobre mim</h2>
         <p>
           Meu nome é Yuri Burk, formado em Sistemas de
-          Informação, moro em Blumenau/SC onde trabalho na
+          Informação, moro em SC onde trabalho na
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://qintess.com.br/"
+            href="https://qintess.com/"
           >
             Qintess
           </a>
-          como desenvolvedor React JS.
+          como desenvolvedor React senior.
         </p>
         <br />
         <p>
