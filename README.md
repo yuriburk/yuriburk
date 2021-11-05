@@ -7,11 +7,11 @@
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://ambevtech.com.br/"
+            href="https://qintess.com.br/"
           >
-            Ambev
+            Qintess
           </a>
-          como analista de desenvolvimento full-stack.
+          como desenvolvedor React JS.
         </p>
         <br />
         <p>
