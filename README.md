@@ -23,7 +23,7 @@
           tal motivo desenvolvi este  <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://burk.dev/"
+            href="https://blog.burk.dev/"
           >
             blog
           </a> como forma de estudo utilizando
