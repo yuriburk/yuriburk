@@ -7,9 +7,9 @@
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://qintess.com/"
+            href="https://nupayforbusiness.com.br/"
           >
-            Qintess
+            NuPay
           </a>
           como desenvolvedor React senior.
         </p>
