@@ -47,6 +47,10 @@
                 <td>Burk.dev</td>
                 <td>https://github.com/yuriburk/yuriburk-dev</td>
         </tr>
+        <tr>
+                <td>GoBarber Web</td>
+                <td>https://github.com/yuriburk/gobarber-web</td>
+        </tr>
 </table>
         
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuriburk.visitor-badge)
