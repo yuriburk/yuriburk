@@ -21,7 +21,6 @@
           </a> como forma de estudo utilizando
           Gatsby, onde irei compartilhar um pouco do que estou estudando.
         </p>
-
 <h2>Habilidades</h2>
         <ul>
           <li>React.js</li>
