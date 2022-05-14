@@ -37,7 +37,7 @@
           <li>Bancos de dados relacionais e não relacionais</li>
         </ul>
 
-<h2>Badge</h2>
+<h2>Github Profile</h2>
 
 [![card](https://github-readme-stats.vercel.app/api?username=yuriburk&theme=tokyonight&show_icons=true)](https://github.com/yuriburk/)
 
