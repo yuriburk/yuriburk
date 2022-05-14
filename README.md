@@ -45,11 +45,11 @@
         </tr>
         <tr>
                 <td>Burk.dev</td>
-                <td>ReactJS</td>
+                <td>React, Gatsby</td>
         </tr>
         <tr>
                 <td>GoBarber Web</td>
-                <td>ReactJS</td>
+                <td>React, Styled Components</td>
         </tr>
 </table>
 <h5>Star it</h5>
