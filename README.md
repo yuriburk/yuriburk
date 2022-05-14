@@ -41,15 +41,15 @@
 <table>
         <tr>
                 <th>Nome</th>
-                <th>Repositório</th>
+                <th>Stack</th>
         </tr>
         <tr>
                 <td>Burk.dev</td>
-                <td>https://github.com/yuriburk/yuriburk-dev</td>
+                <td>ReactJS</td>
         </tr>
         <tr>
                 <td>GoBarber Web</td>
-                <td>https://github.com/yuriburk/gobarber-web</td>
+                <td>ReactJS</td>
         </tr>
 </table>
 <h5>Star it</h5>
