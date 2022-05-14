@@ -37,7 +37,7 @@
           <li>Bancos de dados relacionais e não relacionais</li>
         </ul>
 
-<h2></h2>
+<h2>Alguns cartões</h2>
 
 [![yuriburk](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriburk&hide=html&layout=compact&theme=Tokyonight)](https://github.com/yuriburk/)
 
