@@ -37,4 +37,16 @@
           <li>Bancos de dados relacionais e não relacionais</li>
         </ul>
 
+<h1>Alguns Projetos</h1>
+<table>
+        <tr>
+                <th>Nome</th>
+                <th>Repositório</th>
+        </tr>
+        <tr>
+                <td>Burk.dev</td>
+                <td>https://github.com/yuriburk/yuriburk-dev</td>
+        </tr>
+</table>
+        
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuriburk.visitor-badge)
