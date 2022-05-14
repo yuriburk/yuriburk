@@ -43,3 +43,7 @@
 <h2>Visitantes</h2>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuriburk.visitor-badge)
+
+
+
+[![yuriburk](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriburk&hide=html&layout=compact&theme=default)](https://github.com/yuriburk/)
