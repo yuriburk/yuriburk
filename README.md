@@ -7,7 +7,7 @@
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://nupayforbusiness.com.br/"
+            href="https://nupaybusiness.com.br/"
           >
             NuPay
           </a>
