@@ -11,15 +11,7 @@
           >
             NuPay
           </a>
-          como desenvolvedor React senior.
-        </p>
-        <br />
-        <p>
-          Minha principal área de conhecimento é desenvolvimento front-end com React, mobile com React Native e back-end utilizando C# e Node.js.
-        </p>
-        <br />
-        <p>
-          Meu hobby é aprender novas tecnologias e colocá-las em prática, por
+          como desenvolvedor React senior. Minha principal área de conhecimento é desenvolvimento front-end com React, mobile com React Native e back-end utilizando C# e Node.js. Tenho como prática aprender novas tecnologias e colocá-las em prática, por
           tal motivo desenvolvi este  <a
             target="_blank"
             rel="noopener noreferrer"
