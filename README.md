@@ -39,9 +39,9 @@
 
 <h2>Alguns cartões</h2>
 
-[![yuriburk](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriburk&hide=html&layout=compact&theme=Tokyonight)](https://github.com/yuriburk/)
+[![yuriburk](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriburk&hide=html&layout=compact&theme=tokyonight)](https://github.com/yuriburk/)
 
-[![card](https://github-readme-stats.vercel.app/api?username=yuriburk&theme=default&show_icons=Tokyonight)](https://github.com/yuriburk/)
+[![card](https://github-readme-stats.vercel.app/api?username=yuriburk&theme=default&show_icons=tokyonight)](https://github.com/yuriburk/)
 
 <h2>Star it</h2>
 
