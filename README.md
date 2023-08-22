@@ -3,15 +3,7 @@
 <h2>Sobre mim</h2>
         <p>
           Meu nome é Yuri, formado em Sistemas de
-          Informação, moro em SC onde trabalho na
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://nupaybusiness.com.br/"
-          >
-            NuPay
-          </a>
-          como desenvolvedor React senior. Minha principal área de conhecimento é desenvolvimento front-end com React, mobile com React Native e back-end utilizando C# e Node.js. Tenho como prática aprender novas tecnologias e colocá-las em prática, por
+          Informação, moro em SC e trabalho como desenvolvedor React senior. Minha principal área de conhecimento é desenvolvimento front-end com React, mobile com React Native e back-end utilizando C# e Node.js. Tenho como prática aprender novas tecnologias e colocá-las em prática, por
           tal motivo desenvolvi este  <a
             target="_blank"
             rel="noopener noreferrer"
